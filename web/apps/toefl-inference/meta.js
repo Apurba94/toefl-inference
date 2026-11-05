@@ -1,0 +1,1 @@
+window.SK_META = {"name": "toefl-inference", "title": "Inference Practice", "exam": "TOEFL", "area": "TOEFL Reading and Listening", "desc": "Practise reading between the lines: what a writer implies but does not say.", "content": ["toefl_passages.json", "daily_texts.json"], "n": 60};
